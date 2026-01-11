@@ -1,2 +1,2 @@
 # password-manager-microservices
-SecureVault est une application web de gestion sécurisée des mots de passe basée sur une architecture microservices avec Spring Boot, Spring Cloud et React.
+SecureVault est une application web basée sur une architecture microservices avec Spring Boot et Spring Cloud, utilisant Eureka pour la découverte des services et une API Gateway comme point d’entrée sécurisé.
